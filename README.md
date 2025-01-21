@@ -82,4 +82,3 @@ Otodecks is a feature-rich DJ application developed as an Object-Oriented Progra
 2. **Clone the Repository**:
    ```bash
    git clone https://github.com/Arcslash34/DJ-Music-Master.git
-   cd DJ-Music-Master
